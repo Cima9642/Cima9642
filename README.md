@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">I am a passionate Frontend Developer from Texas who loves to try new thing and continue to learn new technologies.</h3>
+<h3 align="center">I am a passionate Frontend Developer from Texas who loves to try new thing and continue to learn new technologies. I enjoy provididng solutions to people and companies, the reason why I love tech so much is becuase it's constantly evolving and you're constantly learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" /> </p>
 
 - 🔭 I’m currently working on **Email Templates & Portfolio Build**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Node.js**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
