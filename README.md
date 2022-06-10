@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Email Templates & Portfolio Build**
 
-- 🌱 I’m currently learning **JavaScript, Node.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
