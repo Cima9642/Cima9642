@@ -1,5 +1,6 @@
-Hi 👋 My name is Carlos Martinez
-================================Frontend Developer------------------I am a passionate Frontend Developer from Texas who loves to try new things and continue to learn new technologies. I enjoy providing solutions to people and companies, the reason why I love tech so much is that it's constantly evolving and you're constantly learning new things.* 🌍  I'm based in Texas* ✉️  You can contact me at [carlos@cima.design](mailto:carlos@cima.design)* 🧠  I'm learning Python
+# Hi 👋 My name is Carlos Martinez
+##Frontend Developer
+I am a passionate Frontend Developer from Texas who loves to try new things and continue to learn new technologies. I enjoy providing solutions to people and companies, the reason why I love tech so much is that it's constantly evolving and you're constantly learning new things.* 🌍  I'm based in Texas* ✉️  You can contact me at [carlos@cima.design](mailto:carlos@cima.design)* 🧠  I'm learning Python
 
 ### Skills
 
@@ -12,9 +13,11 @@ Hi 👋 My name is Carlos Martinez
 
 <a href="http://www.github.com/Cima9642"><img src="https://github-readme-stats.vercel.app/api?username=Cima9642&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cima9642's GitHub stats" /></a>
 
+<a href="https://github.com/Cima9642" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cima9642&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/Cima9642"><img src="https://activity-graph.herokuapp.com/graph?username=Cima9642&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Cima9642" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cima9642&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" /> </p>
