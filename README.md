@@ -25,7 +25,7 @@ I am a passionate Frontend Developer from Texas who loves to try new things and 
 
 <a href="http://www.github.com/Cima9642"><img src="https://activity-graph.herokuapp.com/graph?username=Cima9642&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" /> </p>
