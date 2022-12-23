@@ -2,15 +2,19 @@
 
 ## Frontend Developer
 
-I am a passionate Frontend Developer from Texas who loves to try new things and continue to learn new technologies. I enjoy providing solutions to people and companies, the reason why I love tech so much is that it's constantly evolving and you're constantly learning new things. Progamming has been a passion of mine and if I can teach someone something that is a job well done on my books. Feel free to grab inspiration from my repositories, I am currently going back to school after taking a short break due to personal reasons. I am excited to share what I learn with anyone who is willing to learn as well, I will be adding some assigments here so if you're stuck in a school assigment, I hope to shine some light. I'm currently open to do front-end freelance work please contact me via email if interested.
+I am a passionate Frontend Developer from Texas who loves to try new things and continue to learn new technologies. I enjoy providing solutions to people and companies, the reason why I love tech so much is that it's constantly evolving and you're constantly learning new things. Programming has been a passion of mine and if I can teach someone something that is a job well done in my books. Feel free to grab inspiration from my repositories, I am currently going back to school after taking a short break due to personal reasons. I am excited to share what I learn with anyone who is willing to learn as well, I will be adding some assignments here so if you're stuck in a school assignment, I hope to shine some light. I'm currently open to doing front-end freelance work please contact me via email if interested.
 
-🌍  I'm based in Texas
+🗺  I'm based in Texas
+
+🌎  I'm Mexican and proud, quesadillas have cheese... If you know you know
 
 ✉️  You can contact me at [carlos@cima.design](mailto:carlosfxv@gmail.com)
 
 🧠  I'm currently back in school after a short break learning C++ and Java
 
 ⚡️  Fun Fact: I love photography and I'm still trying to figure out how to combine both coding and photography.
+
+
 
 ## Skills
 
