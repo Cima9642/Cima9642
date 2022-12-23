@@ -12,7 +12,7 @@ I am a passionate Frontend Developer from Texas who loves to try new things and 
 
 🧠  I'm currently back in school after a short break learning C++ and Java
 
-⚡️  Fun Fact: I love photography and I'm still trying to figure out how to combine both coding and photography.
+⚡️  Fun Fact: I love photography and I'm learing how to build thocky keyboards
 
 
 
