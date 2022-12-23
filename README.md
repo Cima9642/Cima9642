@@ -8,7 +8,7 @@ I am a passionate Frontend Developer from Texas who loves to try new things and 
 
 ✉️  You can contact me at [carlos@cima.design](mailto:carlos@cima.design)
 
-🧠  I'm learning Python
+🧠  I'm currently back in school after a short break learning C++ and Java
 
 ## Skills
 
