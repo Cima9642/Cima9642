@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I am a passionate Frontend Developer from Texas who loves to try new things and continue to learn new technologies. I enjoy providing solutions to people and companies, the reason why I love tech so much is that it's constantly evolving and you're constantly learning new things. Programming has been a passion of mine and if I can teach someone something that is a job well done in my books. Feel free to grab inspiration from my repositories, I am currently going back to school after taking a short break due to personal reasons. I am excited to share what I learn with anyone who is willing to learn as well, I will be adding some assignments here so if you're stuck in a school assignment, I hope to shine some light. I'm currently open to doing front-end freelance work please contact me via email if interested.
+I am a passionate Front-end Developer from Texas who loves trying new things and learning new technologies. Providing solutions to people and companies is what drives me to love technology so much, as it is constantly evolving and there is always something new to learn. Programming has been a passion of mine, and if I can teach someone something, that is a job well done in my book. Feel free to use my repositories as inspiration. I am currently returning to school after taking a short break due to personal reasons. I am excited to share what I learn with anyone who is willing to learn as well. I will be adding some assignments here, so if you're stuck on a school assignment, I hope to shed some light. I am currently available for front-end freelance work. If you are interested, please contact me via email.
 
 🗺  I'm based in Texas
 
