@@ -6,7 +6,7 @@ I am a passionate Front-end Developer from Texas who loves trying new things and
 
 🗺  I'm based in Texas
 
-🌎  I'm Mexican and proud, quesadillas have cheese... If you know you know
+🌎  Quesadillas have cheese... If you know you know
 
 ✉️  You can contact me at [carlos@cima.design](mailto:carlosfxv@gmail.com)
 
