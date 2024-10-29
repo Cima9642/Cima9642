@@ -2,18 +2,13 @@
 
 ## Frontend Developer
 
-I am a passionate Front-end Developer from Texas who loves trying new things and learning new technologies. Providing solutions to people and companies is what drives me to love technology so much, as it is constantly evolving and there is always something new to learn. Programming has been a passion of mine, and if I can teach someone something, that is a job well done in my book. Feel free to use my repositories as inspiration. I am currently returning to school after taking a short break due to personal reasons. I am excited to share what I learn with anyone who is willing to learn as well. I will be adding some assignments here, so if you're stuck on a school assignment, I hope to shed some light. I am currently available for front-end freelance work. If you are interested, please contact me via email.
+I am a passionate Front-end Developer from Texas who loves trying new things and learning new technologies. Programming has been a passion of mine, and if I can teach someone something, that is a job well done in my book. Feel free to use my repositories as you please. I am a Senior in college, I will be adding some assignments here, so if you're stuck on a school assignment, I hope to shed some light. I am currently available for front-end freelance work. If you are interested, please contact me via email. Fun Fact: I am a photographer, feel free to look at my [Instagram](https://www.instagram.com/cimagraphy) 
 
 🗺  I'm based in Texas
 
-🌎  Quesadillas have cheese... If you know you know
-
 ✉️  You can contact me at [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)
 
-🧠  I'm currently back in school after a short break learning C++ and Java
-
-⚡️  Fun Fact: I love photography and I'm learing how to build thocky keyboards
-
+🧠  I'm currently in school go Runners!!!
 
 
 ## Skills
