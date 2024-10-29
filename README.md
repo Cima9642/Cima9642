@@ -8,7 +8,7 @@ I am a passionate Front-end Developer from Texas who loves trying new things and
 
 🌎  Quesadillas have cheese... If you know you know
 
-✉️  You can contact me at [carlos@cima.design](mailto:carlosfxv@gmail.com)
+✉️  You can contact me at [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)
 
 🧠  I'm currently back in school after a short break learning C++ and Java
 
