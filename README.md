@@ -30,9 +30,6 @@ I am a passionate Front-end Developer from Texas who loves trying new things and
 
 
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlosfxv)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" /> </p>
 
 
