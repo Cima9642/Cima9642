@@ -1,14 +1,21 @@
-# Hi 👋 My name is Carlos Martinez
+# 👋 Hi My name is Carlos Martinez
 
-## Frontend Developer
+## Frontend Developer  
 
-I am a passionate Front-end Developer from Texas who loves trying new things and learning new technologies. Programming has been a passion of mine, and if I can teach someone something, that is a job well done in my book. Feel free to use my repositories as you please. I am a Senior in college, I will be adding some assignments here, so if you're stuck on a school assignment, I hope to shed some light. I am currently available for front-end freelance work. If you are interested, please contact me via email. Fun Fact: I am a photographer, feel free to look at my [Instagram](https://www.instagram.com/cimagraphy) 
+Curiosity-driven **Frontend Developer** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge—if I can help someone learn, I’ve done my job well!  
 
-🗺  I'm based in Texas
+🗂️ **Repositories**  
+Feel free to explore and use my projects. As a college senior, I’ll be sharing some of my coursework here, if you’re stuck on an assignment, maybe my code can offer a fresh perspective!  
 
-✉️  You can contact me at [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)
+💼 **Availability**  
+Open for frontend freelance opportunities! Let’s create something amazing together—reach out via email below.  
 
-🧠  I'm currently in school go Runners!!!
+📸 **Fun Fact**  
+When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
+
+---  
+✉️ **Contact**: [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)  
+🎓 **Current computer science student** – Go Runners! 🏃♂️  
 
 
 ## Skills
