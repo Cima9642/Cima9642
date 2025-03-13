@@ -2,7 +2,7 @@
 
 ## Frontend Developer  
 
-Curiosity-driven **Frontend Developer** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge—if I can help someone learn, I’ve done my job well!  
+Curiosity-driven **Frontend Developer** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge. If I can help someone learn, I’ve done my job well!  
 
 🗂️ **Repositories**  
 Feel free to explore and use my projects. As a college senior, I’ll be sharing some of my coursework here, if you’re stuck on an assignment, maybe my code can offer a fresh perspective!  
