@@ -15,7 +15,7 @@ When I’m not coding, I’m behind a camera! Feel free to explore my visual wor
 
 ---  
 ✉️ **Contact**: [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)  
-🎓 **Current computer science student** – Go Runners! 🏃♂️  
+🎓 **Current computer science student** – Go Runners!  
 
 
 ## Skills
