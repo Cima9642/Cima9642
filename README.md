@@ -1,4 +1,4 @@
-# 👋 Hi My name is Carlos Martinez
+# Hello I'm Carlos Martinez
 
 ## Frontend Developer  
 
