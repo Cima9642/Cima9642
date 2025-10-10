@@ -4,14 +4,7 @@
 
 Curiosity-driven **Frontend Developer** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge. If I can help someone learn, I’ve done my job well!  
 
-🗂️ **Repositories**  
-Feel free to explore and use my projects. As a college senior, I’ll be sharing some of my coursework here, if you’re stuck on an assignment, maybe my code can offer a fresh perspective!  
-
-💼 **Availability**  
-Open for frontend freelance opportunities! Let’s create something amazing together—reach out via email below.  
-
-📸 **Fun Fact**  
-When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
+📸 When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
 
 ---  
 ✉️ **Contact**: [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)  
