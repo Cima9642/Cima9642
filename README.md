@@ -8,7 +8,7 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 
 ---  
 🎓 **Current computer science student/May2026** – Go Runners!  
-✉️ **Contact**: [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)  
+✉️ **Contact**: [carlosfxv@gmail.com](mailto:carlosfxv@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/carlosfxv)
 
 
