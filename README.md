@@ -7,12 +7,14 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 📸 When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
 
 ---  
+🎓 **Current computer science student/May2026** – Go Runners!  
 ✉️ **Contact**: [carlos@cimagraphy.photos](mailto:carlosfxv@gmail.com)  
-🎓 **Current computer science student** – Go Runners!  
+[LinkedIn](https://www.linkedin.com/in/carlosfxv)
+
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash)](https://skillicons.dev) 
 
 <b>My GitHub Stats</b>
 
