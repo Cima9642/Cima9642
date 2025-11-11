@@ -16,8 +16,12 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash)](https://skillicons.dev) 
 
+<p align="center">
+  <a href="https://github.com">
+     <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" /> </p>
 
 
 
