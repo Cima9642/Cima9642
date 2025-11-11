@@ -8,19 +8,23 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 
 ---  
 🎓 **Current computer science student/May2026** – Go Runners!  
-✉️ **Contact**: [carlosfxv@gmail.com](mailto:carlosfxv@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/carlosfxv)
-
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash)] 
+![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash,mongodb&perline=4)
 
-<p align="center">
+## Contact
+[carlosfxv@gmail.com](mailto:carlosfxv@gmail.com)  
+<a href="https://linkedin.com/Cima9642">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<p align="left">
   <a href="https://github.com/cima9642">
      <img src="https://komarev.com/ghpvc/?username=cima9642&label=Profile%20views&color=0e75b6&style=flat" alt="cima9642" />
   </a>
 </p>
+
 
 
 
