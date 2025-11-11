@@ -15,7 +15,7 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 
 ## Contact
 [carlosfxv@gmail.com](mailto:carlosfxv@gmail.com)  
-<a href="https://linkedin.com/Cima9642">
+<a href="https://www.linkedin.com/in/carlosfxv/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
