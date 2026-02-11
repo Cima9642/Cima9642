@@ -11,7 +11,7 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash,mongodb&perline=4)
+![My Skills](https://skillicons.dev/icons?i=js,java,html,css,c,py,react,nextjs,git,aws,bash,mongodb&perline=6)
 
 ## Contact
 [carlosfxv@gmail.com](mailto:carlosfxv@gmail.com)  
