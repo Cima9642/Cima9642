@@ -5,7 +5,7 @@ Curiosity-driven **Frontend Developer** from Texas, passionate about crafting cl
 📸 When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
 
 ---  
-🎓 **Current computer science student: Graduating May 2026** – Go Runners!  
+🎓 **UTSA Early Grad** – Go Runners!  
 
 
 ## Skills
