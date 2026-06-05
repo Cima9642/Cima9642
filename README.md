@@ -1,6 +1,6 @@
 # Hello I'm Carlos Martinez
 
-Curiosity-driven **Frontend Developer** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge. If I can help someone learn, I’ve done my job well!  
+Curiosity-driven **Frontend Developer | SWE** from Texas, passionate about crafting clean, user-focused experiences. I thrive on exploring new technologies and sharing knowledge. If I can help someone learn, I’ve done my job well!  
 
 📸 When I’m not coding, I’m behind a camera! Feel free to explore my visual work on [Instagram](https://www.instagram.com/cimagraphy).  
 
