@@ -22,7 +22,7 @@ Bilingual in English & Spanish, always happy to chat in either. 🇲🇽
 
 
 ## What I'm working with
-![My Skills](https://skillicons.dev/icons?i=js,java,c,py,react,nextjs,git,aws,bash,mongodb&perline=5)
+![My Skills](https://skillicons.dev/icons?i=js,java,c,py,react,nextjs,git,aws,docker,mongodb&perline=5)
 
 ---
 
